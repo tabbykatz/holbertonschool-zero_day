@@ -1,1 +1,1 @@
-# holberton-zero-day
+# holberton-zero-day is fun
