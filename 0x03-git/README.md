@@ -1,1 +1,3 @@
-Greetings, This is the README for the zero-day git project.
+0x03. Git
+
+Welcome to the README for my zero-day git project.
